@@ -7555,12 +7555,6 @@ button.bg-dark:focus {
   white-space: nowrap !important;
 }
 
-.text-truncate {
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
-}
-
 .text-left {
   text-align: left !important;
 }
@@ -8112,4 +8106,8 @@ form .row:first-child .floating-label-form-group {
 
 .team {
   margin-top: 10%;
+}
+
+.gauche {
+  text-align: left;
 }
