@@ -57,7 +57,7 @@ $(function () {
                         $("<strong>").text(
                             "Sorry " +
                                 firstName +
-                                ", Il semblerait que le serveur ne réponde pas. S'il vous plaît essayez plus!"
+                                ", Il semblerait que le serveur ne réponde pas. S'il vous plaît essayez plus tard!"
                         )
                     );
                     $("#success > .alert-danger").append("</div>");
